@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Homework1 {
+public class Homework3 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
          int satir = input.nextInt();
